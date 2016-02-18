@@ -1,0 +1,7 @@
+{
+  "name": "SJ_SmartThings",
+  "author": "Jesse Weiland <jesse.weiland@gmail.com>",
+  "license": "Apache 2.0",
+  "version": "0.0.01",
+  "description": "Library to create SmartThings devices"
+}
